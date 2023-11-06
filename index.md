@@ -1,6 +1,6 @@
 # Introduction to Bulk RNA-seq data analysis
-### 23rd, 26th, 27th Jun 2023
-#### Taught Hybrid
+### 17th, 24th Nov and 1st Dec
+#### Online
 #### Bioinformatics Training Facility, Craik-Marshall Building, Downing Site, University of Cambridge
 
 ![](Bulk_RNAseq_Course_Base/images/CRUK_Cambridge_Major_Centre_logo.jpg)
@@ -9,10 +9,7 @@
 
 * Abigail Edwards - Bioinformatics Core, Cancer Research UK Cambridge Institute
 * Adam Reid - Gurdon Institute, University of Cambridge
-* Chandra Chilamakuri - Bioinformatics Core, Cancer Research UK Cambridge Institute
-* Jonathan Price - Department of Biochemistry, University of Cambridge
-* Jiayin Hong - Department of Biochemistry, University of Cambridge
-* Raquel Manzano Garcia - Cancer Research UK Cambridge Institute
+* Tom Smith - MRC Toxicology, University of Cambridge
 * Ulrika Yuan - Department of Biochemistry, University of Cambridge
 
 
@@ -47,7 +44,7 @@ as we go.
 
 ## Shared Google Document
 
-This [Google Document](https://docs.google.com/document/d/1rFDaTvSS0rnyv04zW306oHKRSU8NGL0ZplbxUopT6H0/edit) contains useful information and links.
+This [Google Document](https://docs.google.com/document/d/1nqnelPJFx_Gvw8Mz83AEzcP2cII2ZlLpMlRDBEdWFeU/edit?usp=sharing) contains useful information and links.
 
 Please use it to post any long form questions you have during the course.
 
@@ -55,15 +52,14 @@ The trainers will be monitoring the document and will answer questions as quickl
 
 ## Introduce Yourself
 
-There is another Google Doc [Google Document](https://docs.google.com/document/d/1UTQwKpzP3bGvyrSRaOqHa3BeY26uceygUIosgqDMDBo/edit#heading=h.tj6yzxlcvirh).
+There is another Google Doc [Google Document](https://docs.google.com/document/d/19xeAvseME9N7x0NE8hMOm3MUCHxKg0IiHhSQuc0fBDE/edit?usp=drive_link).
 Please write a couple sentences here to introduce yourself to the class, tell us a bit about your background and what you hope to get out of this course.  
 If you are a student or staff at the University of Cambridge, tell us which Department you are in.
 
-
 ## Course etiquette
 
-As this course is being partially taught online and there are a large number of participants,
-online students will all need to follow a [few simple rules](https://docs.google.com/presentation/d/e/2PACX-1vQv9nTlsdRC9iZJU138tLL1jrwNoryp8P-FnXxb_ugOOWjbav4QHTLYLLZj2KK4kTO0_3x3VlzSdrUu/pub?start=false&loop=false&delayms=3000) to ensure things run as smoothly as possible:
+As this course is being taught online and there are a large number of participants,
+we will all need to follow a [few simple rules](https://docs.google.com/presentation/d/e/2PACX-1vQv9nTlsdRC9iZJU138tLL1jrwNoryp8P-FnXxb_ugOOWjbav4QHTLYLLZj2KK4kTO0_3x3VlzSdrUu/pub?start=false&loop=false&delayms=3000) to ensure things run as smoothly as possible:
 
 1. Please mute your microphone
 
@@ -82,15 +78,13 @@ online students will all need to follow a [few simple rules](https://docs.google
     ![](Bulk_RNAseq_Course_Base/images/yes_button.png)
 
    This way we will know when we can move on.
-   
-trainers will be monitoring the zoom at all times and communicating with the presenters onsite and will be able to pass on any messages/questions.
+
 
 ## Timetable
 
 ### Day 1
 
-**Trainers in-room:** Chandra (OL AM), Adam (OL PM), Jiayin, Ulrika, Abbi (PM)   
-**Trainers online:** Abbi (AM), Jon, Raquel, Chandra (PM)
+**Trainers:** Abbi, Adam, Ulrika, Tom
 
 9:30 - 9:45 - Welcome! <!-- Hugo/Paul/Abbi -->
 
@@ -118,8 +112,7 @@ trainers will be monitoring the zoom at all times and communicating with the pre
 
 ### Day 2
 
-**Trainers in-room:** Jiayin, Chandra, Jon, Abbi (OL)  
-**Trainers online:** Adam, Raquel, Ulrika
+**Trainers:** Abbi, Adam, Ulrika, Tom
 
 <!-- Welcome Announcements - Abbi -->
 9:30 - 10:15  [Introduction to RNAseq Analysis in R](Bulk_RNAseq_Course_Base/Markdowns/06_Introduction_to_RNAseq_Analysis_in_R.html) - Jiayin
@@ -141,8 +134,7 @@ trainers will be monitoring the zoom at all times and communicating with the pre
 
 ### Day 3
 
-**Trainers in-room:** Abbi, Adam, Raquel, Jiayin (OL)  
-**Trainers online:** Jon, Chandra
+**Trainers:** Abbi, Adam, Ulrika, Tom
 
 9.30 - 9.45 - [Recap of Day 1 and 2](Bulk_RNAseq_Course_Base/additional_scripts_and_materials/Analysis_of_RNA-seq_data_day3recap.pdf) - Abbi
 
