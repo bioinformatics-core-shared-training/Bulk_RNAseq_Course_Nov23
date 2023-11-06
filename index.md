@@ -87,7 +87,7 @@ we will all need to follow a [few simple rules](https://docs.google.com/presenta
 
 **Trainers:** Abbi, Adam, Ulrika, Tom, Zac
 
-9:30 - 9:45 - Welcome! <!-- Hugo/Paul/Abbi -->
+9:30 - 9:45 - [Welcome](https://docs.google.com/presentation/d/1u-UFD5LzBh0FTV54e-TCJJOrCRtdWxM000rQw-a5w6w/edit?usp=sharing)! <!-- Hugo/Paul/Abbi -->
 
 9:45 - 10:15 - [Introduction to RNAseq Methods](Bulk_RNAseq_Course_Base/Markdowns/01_Introduction_to_RNAseq_Methods.html) - Tom
 
