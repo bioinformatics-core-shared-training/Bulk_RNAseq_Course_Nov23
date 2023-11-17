@@ -115,7 +115,7 @@ we will all need to follow a [few simple rules](https://docs.google.com/presenta
 
 ### Day 2
 
-**Trainers:** Abbi, Adam, Ulrika, Tom
+**Trainers:** Abbi, Adam, Raquel, Tom
 
 <!-- Welcome Announcements - Abbi -->
 9:30 - 10:15  [Introduction to RNAseq Analysis in R](Bulk_RNAseq_Course_Base/Markdowns/06_Introduction_to_RNAseq_Analysis_in_R.html) - Abbi
@@ -153,11 +153,15 @@ we will all need to follow a [few simple rules](https://docs.google.com/presenta
 
 <!-- Goodbye: Abbi -->
 
-## Source Materials for Practicals
+## Data, software and materials
 
 The lecture slides and other source materials, including R code and
 practical solutions, can be found in the course's [Github
 repository](https://github.com/bioinformatics-core-shared-training/Bulk_RNASeq_Course_March23)
+
+The full data used in the course can be [downloaded from dropbox](https://www.dropbox.com/sh/sz44que2vha44xw/AABISE1DdBSS6s_zLoW1vuCGa?dl=0). 
+
+Instructions to install software are available from the "[Software installation instructions](Markdowns/setup.html)" page.
 
 ## Extended materials
 
