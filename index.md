@@ -161,7 +161,7 @@ repository](https://github.com/bioinformatics-core-shared-training/Bulk_RNASeq_C
 
 The full data used in the course can be [downloaded from dropbox](https://www.dropbox.com/sh/sz44que2vha44xw/AABISE1DdBSS6s_zLoW1vuCGa?dl=0). 
 
-Instructions to install software are available from the "[Software installation instructions](Markdowns/setup.html)" page.
+Instructions to install software are available from the "[Software installation instructions](Bulk_RNAseq_Course_Base/Markdowns/setup.html)" page.
 
 ## Extended materials
 
