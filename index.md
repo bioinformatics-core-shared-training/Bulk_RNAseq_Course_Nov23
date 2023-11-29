@@ -137,7 +137,7 @@ we will all need to follow a [few simple rules](https://docs.google.com/presenta
 
 ### Day 3
 
-**Trainers:** Abbi, Adam, Ulrika, Tom
+**Trainers:** Abbi, Adam, Ulrika, Raquel
 
 9.30 - 9.45 - [Recap of Day 1 and 2](Bulk_RNAseq_Course_Base/additional_scripts_and_materials/Analysis_of_RNA-seq_data_day3recap.pdf) - Abbi
 
